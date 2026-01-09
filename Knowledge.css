@@ -342,4 +342,9 @@ text-align: center;
  .footer-content hr{opacity: 0.2;
 
  }
-
+ 
+ .footer-logo p {
+font-size:  20px;
+font-weight: 500;
+ }
+ 
