@@ -45,7 +45,9 @@
 .button-navbar{
     justify-content: center;
     display: flex;
-    /* padding: 10px 16px; */
+    padding: 16px 12px;
+    /* width: 164px;
+    height: 78px; */
    
 }
 
@@ -143,7 +145,7 @@ opacity: 0.8;
 
 .ea-btn{
   width:100%;
-  padding:12px 16px;
+  padding: 12px 16px;
   border: none;
   border-radius: 30px;
   background:#fff;
@@ -157,14 +159,13 @@ opacity: 0.8;
 }
 
 .dot{
-  width:12px;
-  height:12px;
-  border-radius:50%;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
   background: #49936e;
-  box-shadow:
-    0 0 0 4px rgb(157, 193, 175),
-    0 0 0 10px rgb(221, 235, 227);
+  box-shadow: 0 0 0 4px rgb(157, 193, 175),  0 0 0 10px rgb(221, 235, 227);
 }
+
 /* .early-access p {
     background-color: white;
     padding: 6px 12px;
