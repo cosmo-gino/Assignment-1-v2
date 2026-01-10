@@ -252,6 +252,7 @@ opacity: 0.8;
       #Second-Brain-Section h5{
         text-transform: uppercase;
         font-weight: 500;
+        font-size: 16px;
       }
 
       #Second-Brain-Section .p1{
@@ -263,9 +264,12 @@ opacity: 0.8;
       #Second-Brain-Section h1{
         font-size: 48px;
       }
-      /* #Second-Brain-Section .cont-list p{
+
+      #Second-Brain-Section .cont-list {
         gap: 16px;
-      } */
+        display: flex;
+        flex-direction: column;
+      }
  
       .SBS-image img{
         width: 600px;
