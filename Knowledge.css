@@ -159,11 +159,11 @@ opacity: 0.8;
 }
 
 .dot{
-  width: 12px;
-  height: 12px;
+  width: 8px;
+  height: 8px;
   border-radius: 50%;
   background: #49936e;
-  box-shadow: 0 0 0 4px rgb(157, 193, 175),  0 0 0 10px rgb(221, 235, 227);
+  box-shadow: 0 0 0 3px rgb(157, 193, 175),  0 0 0 6px rgb(221, 235, 227);
 }
 
 /* .early-access p {
